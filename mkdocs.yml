@@ -1,0 +1,6 @@
+site_name: "devops with dunkin"
+site_url: https://devopsdunkin.github.io
+repo_url: https://github.com/devopsdunkin/blog
+theme: alabaster
+nav:
+  - home: docs/index.md
