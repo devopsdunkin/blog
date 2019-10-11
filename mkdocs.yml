@@ -4,3 +4,5 @@ repo_url: https://github.com/devopsdunkin/blog
 theme: alabaster
 nav:
   - home: index.md
+  - about: about.md
+  - posts: posts.md
