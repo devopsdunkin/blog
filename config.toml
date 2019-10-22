@@ -1,0 +1,4 @@
+baseURL = "https://devopsdunkin.github.io"
+languageCode = "en-us"
+title = "devops with dunkin"
+theme = "paper"
