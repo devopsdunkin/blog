@@ -2,3 +2,12 @@ baseURL = "https://devopsdunkin.github.io"
 languageCode = "en-us"
 title = "devops with dunkin"
 theme = "paper"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "This is the blog section"
+    title = "blog section"
+    url = "/blog/"
+    weight = -110
