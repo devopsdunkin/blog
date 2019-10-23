@@ -6,8 +6,8 @@ theme = "paper"
 [menu]
 
   [[menu.main]]
-    identifier = "blog"
-    name = "This is the blog section"
-    title = "blog section"
-    url = "/blog/"
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
     weight = -110
