@@ -1,6 +1,6 @@
 ---
 title: "Terraform - Dynamic Disks"
-date: 2020-01-06T21:20:25-06:00
+date: 2020-01-06T20:20:25-06:00
 draft: false
 tags: ["terraform","storage"]
 ---
